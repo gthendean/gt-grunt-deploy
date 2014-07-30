@@ -1,1 +1,0 @@
-"use strict";function run(){var a={"first-name":"Jerome",lastName:"Howard",address:{"street-no":23,"street-name":"main",state:"CA"}};console.log(a.lastName)}function crun(){}run(),crun();
